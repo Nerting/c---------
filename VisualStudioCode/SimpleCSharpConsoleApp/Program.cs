@@ -1,4 +1,4 @@
-﻿/*4 ЗАДАНИМЕ МОЕ 
+﻿
 using System;
 using System.Linq;
 
@@ -11,7 +11,7 @@ class Program
         Console.WriteLine("По убыванию: " + string.Join(", ", sorted));
     }
 }
-*/ 
+
 /* 13 ЗАДАНИЕ 
 using System;
 using System.Linq;
